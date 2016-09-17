@@ -1,4 +1,4 @@
-Calculate wordcount using hadoop and mapreducer
+# Calculate wordcount using hadoop and mapreduce
 
 - Mapper to tokenize words
 - Reducer to aggragate word count
